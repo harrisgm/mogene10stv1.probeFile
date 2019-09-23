@@ -1,0 +1,10 @@
+Package: mogene10stv1.probeFile
+Title: Probe sequence data for microarrays of type mogene10stv1
+Version: 0.0.1
+Created: Mon Sep 23 10:18:06 2019
+Author: The Bioconductor Project www.bioconductor.org 
+Description: This package was automatically created by package AnnotationForge version 1.26.0. This probeFile for use with the Sscore2 R package.  It was created by parsing the data contained within the chiptype platform design (pd.packge) on Bioconductor. 
+Maintainer: Guy Harris <harrisgm@vcu.edu>
+Depends: R (>= 1.6), AnnotationDbi (>= 1.26.0)
+License:  LGPL
+biocViews: AnnotationData, AffymetrixChip, probe, mogene10stv1, Mus_musculus
